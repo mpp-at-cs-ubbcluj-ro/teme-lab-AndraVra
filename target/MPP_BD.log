@@ -1,0 +1,72 @@
+10 Mar 2025 17:21:36,587 INFO  ro.mpp2024.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite/Users/ANDRA/IdeaProjects/teme-lab-AndraVraa/activitate_lab3/cars.db"} 
+10 Mar 2025 17:21:36,598 TRACE ro.mpp2024.CarsDBRepository 78 add - Enter saving task Id=0 Tesla Model S 2019
+10 Mar 2025 17:21:36,598 TRACE ro.mpp2024.JdbcUtils 47 getConnection - Enter
+10 Mar 2025 17:21:36,598 TRACE ro.mpp2024.JdbcUtils 24 getNewConnection - Enter
+10 Mar 2025 17:21:36,599 INFO  ro.mpp2024.JdbcUtils 29 getNewConnection - trying to connect to database ... "jdbc:sqlite/Users/ANDRA/IdeaProjects/teme-lab-AndraVraa/activitate_lab3/cars.db"
+10 Mar 2025 17:21:36,599 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - user: null
+10 Mar 2025 17:21:36,600 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - pass: null
+10 Mar 2025 17:21:36,609 ERROR ro.mpp2024.JdbcUtils 40 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite/Users/ANDRA/IdeaProjects/teme-lab-AndraVraa/activitate_lab3/cars.db"
+10 Mar 2025 17:21:36,609 TRACE ro.mpp2024.JdbcUtils 56 getConnection - Exit
+10 Mar 2025 17:25:46,076 INFO  ro.mpp2024.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite/Users/ANDRA/IdeaProjects/teme-lab-AndraVraa/activitate_lab3/cars.db"} 
+10 Mar 2025 17:25:46,086 TRACE ro.mpp2024.CarsDBRepository 78 add - Enter saving task Id=0 Tesla Model S 2019
+10 Mar 2025 17:25:46,086 TRACE ro.mpp2024.JdbcUtils 47 getConnection - Enter
+10 Mar 2025 17:25:46,087 TRACE ro.mpp2024.JdbcUtils 24 getNewConnection - Enter
+10 Mar 2025 17:25:46,087 INFO  ro.mpp2024.JdbcUtils 29 getNewConnection - trying to connect to database ... "jdbc:sqlite/Users/ANDRA/IdeaProjects/teme-lab-AndraVraa/activitate_lab3/cars.db"
+10 Mar 2025 17:25:46,087 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - user: null
+10 Mar 2025 17:25:46,087 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - pass: null
+10 Mar 2025 17:25:46,096 ERROR ro.mpp2024.JdbcUtils 40 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite/Users/ANDRA/IdeaProjects/teme-lab-AndraVraa/activitate_lab3/cars.db"
+10 Mar 2025 17:25:46,097 TRACE ro.mpp2024.JdbcUtils 56 getConnection - Exit
+10 Mar 2025 17:27:47,904 INFO  ro.mpp2024.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:/C:/Users/ANDRA/IdeaProjects/teme-lab-AndraVraa/activitate_lab3/cars.db"} 
+10 Mar 2025 17:27:47,913 TRACE ro.mpp2024.CarsDBRepository 78 add - Enter saving task Id=0 Tesla Model S 2019
+10 Mar 2025 17:27:47,913 TRACE ro.mpp2024.JdbcUtils 47 getConnection - Enter
+10 Mar 2025 17:27:47,913 TRACE ro.mpp2024.JdbcUtils 24 getNewConnection - Enter
+10 Mar 2025 17:27:47,913 INFO  ro.mpp2024.JdbcUtils 29 getNewConnection - trying to connect to database ... "jdbc:sqlite:/C:/Users/ANDRA/IdeaProjects/teme-lab-AndraVraa/activitate_lab3/cars.db"
+10 Mar 2025 17:27:47,913 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - user: null
+10 Mar 2025 17:27:47,913 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - pass: null
+10 Mar 2025 17:27:47,921 ERROR ro.mpp2024.JdbcUtils 40 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:/C:/Users/ANDRA/IdeaProjects/teme-lab-AndraVraa/activitate_lab3/cars.db"
+10 Mar 2025 17:27:47,922 TRACE ro.mpp2024.JdbcUtils 56 getConnection - Exit
+10 Mar 2025 17:28:59,985 INFO  ro.mpp2024.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:C:\Users\ANDRA\IdeaProjects\teme-lab-AndraVraa\cars.db"} 
+10 Mar 2025 17:28:59,993 TRACE ro.mpp2024.CarsDBRepository 78 add - Enter saving task Id=0 Tesla Model S 2019
+10 Mar 2025 17:28:59,994 TRACE ro.mpp2024.JdbcUtils 47 getConnection - Enter
+10 Mar 2025 17:28:59,994 TRACE ro.mpp2024.JdbcUtils 24 getNewConnection - Enter
+10 Mar 2025 17:28:59,994 INFO  ro.mpp2024.JdbcUtils 29 getNewConnection - trying to connect to database ... "jdbc:sqlite:C:\Users\ANDRA\IdeaProjects\teme-lab-AndraVraa\cars.db"
+10 Mar 2025 17:28:59,994 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - user: null
+10 Mar 2025 17:28:59,994 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - pass: null
+10 Mar 2025 17:29:00,003 ERROR ro.mpp2024.JdbcUtils 40 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:C:\Users\ANDRA\IdeaProjects\teme-lab-AndraVraa\cars.db"
+10 Mar 2025 17:29:00,003 TRACE ro.mpp2024.JdbcUtils 56 getConnection - Exit
+10 Mar 2025 17:30:20,659 INFO  ro.mpp2024.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:C:\Users\ANDRA\IdeaProjects\teme-lab-AndraVraa\activitate_lab3\cars.db"} 
+10 Mar 2025 17:30:20,668 TRACE ro.mpp2024.CarsDBRepository 78 add - Enter saving task Id=0 Tesla Model S 2019
+10 Mar 2025 17:30:20,669 TRACE ro.mpp2024.JdbcUtils 47 getConnection - Enter
+10 Mar 2025 17:30:20,669 TRACE ro.mpp2024.JdbcUtils 24 getNewConnection - Enter
+10 Mar 2025 17:30:20,669 INFO  ro.mpp2024.JdbcUtils 29 getNewConnection - trying to connect to database ... "jdbc:sqlite:C:\Users\ANDRA\IdeaProjects\teme-lab-AndraVraa\activitate_lab3\cars.db"
+10 Mar 2025 17:30:20,669 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - user: null
+10 Mar 2025 17:30:20,669 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - pass: null
+10 Mar 2025 17:30:20,678 ERROR ro.mpp2024.JdbcUtils 40 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:C:\Users\ANDRA\IdeaProjects\teme-lab-AndraVraa\activitate_lab3\cars.db"
+10 Mar 2025 17:30:20,679 TRACE ro.mpp2024.JdbcUtils 56 getConnection - Exit
+10 Mar 2025 17:30:52,111 INFO  ro.mpp2024.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\ANDRA\IdeaProjects\teme-lab-AndraVraa\activitate_lab3\cars.db} 
+10 Mar 2025 17:30:52,121 TRACE ro.mpp2024.CarsDBRepository 78 add - Enter saving task Id=0 Tesla Model S 2019
+10 Mar 2025 17:30:52,121 TRACE ro.mpp2024.JdbcUtils 47 getConnection - Enter
+10 Mar 2025 17:30:52,121 TRACE ro.mpp2024.JdbcUtils 24 getNewConnection - Enter
+10 Mar 2025 17:30:52,121 INFO  ro.mpp2024.JdbcUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\ANDRA\IdeaProjects\teme-lab-AndraVraa\activitate_lab3\cars.db
+10 Mar 2025 17:30:52,121 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - user: null
+10 Mar 2025 17:30:52,121 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - pass: null
+10 Mar 2025 17:30:52,573 TRACE ro.mpp2024.JdbcUtils 56 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@57af006c)
+10 Mar 2025 17:30:52,583 TRACE ro.mpp2024.CarsDBRepository 85 add - Saved 1 instances
+10 Mar 2025 17:30:52,583 TRACE ro.mpp2024.CarsDBRepository 90 add - Exit
+10 Mar 2025 17:30:52,584 TRACE ro.mpp2024.CarsDBRepository 114 findAll - Enter
+10 Mar 2025 17:30:52,584 TRACE ro.mpp2024.JdbcUtils 47 getConnection - Enter
+10 Mar 2025 17:30:52,584 TRACE ro.mpp2024.JdbcUtils 56 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@57af006c)
+10 Mar 2025 17:30:52,586 TRACE ro.mpp2024.CarsDBRepository 133 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda Octavia 2020, Id=3 Tesla Model S 2019])
+10 Mar 2025 17:30:52,587 TRACE ro.mpp2024.CarsDBRepository 25 findByManufacturer - Enter Finding cars by manufacturer: Tesla
+10 Mar 2025 17:30:52,587 TRACE ro.mpp2024.JdbcUtils 47 getConnection - Enter
+10 Mar 2025 17:30:52,587 TRACE ro.mpp2024.JdbcUtils 56 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@57af006c)
+10 Mar 2025 17:30:52,587 TRACE ro.mpp2024.CarsDBRepository 45 findByManufacturer - Exit with([Id=3 Tesla Model S 2019])
+10 Mar 2025 17:30:52,588 TRACE ro.mpp2024.CarsDBRepository 96 update - Enter Updating car with ID: 1
+10 Mar 2025 17:30:52,588 TRACE ro.mpp2024.JdbcUtils 47 getConnection - Enter
+10 Mar 2025 17:30:52,588 TRACE ro.mpp2024.JdbcUtils 56 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@57af006c)
+10 Mar 2025 17:30:52,592 TRACE ro.mpp2024.CarsDBRepository 104 update - Updated 1 instances
+10 Mar 2025 17:30:52,592 TRACE ro.mpp2024.CarsDBRepository 109 update - Exit
+10 Mar 2025 17:30:52,592 TRACE ro.mpp2024.CarsDBRepository 114 findAll - Enter
+10 Mar 2025 17:30:52,592 TRACE ro.mpp2024.JdbcUtils 47 getConnection - Enter
+10 Mar 2025 17:30:52,593 TRACE ro.mpp2024.JdbcUtils 56 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@57af006c)
+10 Mar 2025 17:30:52,593 TRACE ro.mpp2024.CarsDBRepository 133 findAll - Exit with([Id=1 Tesla Model X 2022, Id=2 Skoda Octavia 2020, Id=3 Tesla Model S 2019])
